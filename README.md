@@ -1,0 +1,4 @@
+- 👋 oi eu sou @Henrique5860
+- 👀 curso de programação
+- 🌱 alura, java scripth e scratch
+- 📫 atraves do email: ribeiro.oliveira.pedro@escola.pr.gov.br
