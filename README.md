@@ -1,4 +1,11 @@
-- 👋 oi eu sou @Henrique5860
-- 👀 curso de programação
-- 🌱 alura, java scripth e scratch
+- 👋 Oi eu sou @Henrique5860
+- :computer: Curso de programação
+- 🌱 Alura, java scripth e scratch
 - 📫 atraves do email: ribeiro.oliveira.pedro@escola.pr.gov.br
+- :calling: contato: ribeiro.oliveira.pedro@escola.pr.gov.br
+- :cut_of_meat: Gosto de um churrasquinho,uma coca bem gelada :beer: depois uma piscina :beach_umbrella:
+- :soccer: Gosto muito de jogar futebol com os mlk la da onde eu moro :man:
+- :bike: Gosto de sair para andar de bike com os mlks para dar uns graus
+- :kite: Gosto tbm muito de soltar pipa tirar uns relo
+- :church: Amo ir a igreja tambèm com meus pais
+- :food: Umas das coisas que mais gosto de comer comida tbm :pizza:
