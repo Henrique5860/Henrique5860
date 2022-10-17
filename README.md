@@ -8,4 +8,4 @@
 - :bike: Gosto de sair para andar de bike com os mlks para dar uns graus
 - :kite: Gosto tbm muito de soltar pipa tirar uns relo
 - :church: Amo ir a igreja tambèm com meus pais
-- :food: Umas das coisas que mais gosto de comer comida tbm :pizza:
+- :pizza: Umas das coisas que mais gosto de comer comida tbm :pizza:
